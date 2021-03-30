@@ -1,0 +1,49 @@
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: pink;
+    line-height: 3;
+    text-align: center;
+}
+
+
+body {
+    background-color: rgb(243, 126, 223);
+    color: white;
+    font-family: cursive;
+    margin-bottom: 50px;
+}
+
+.class {
+    margin-left: 50px;
+}
+
+.Margin {
+    margin-bottom: 25px;
+}
+
+#B-day_gif {
+    margin-top: 50px;
+    width: 500px;
+    height: 500px;
+}
+
+#favourite_group_bts {
+    height: 100px;
+}
+
+#favourite_group_blackpink {
+    height: 100px;
+    margin-bottom: 300px;
+}
+
+#Jamboard_button {
+    align-self: center;
+}
+
+.info_margin {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
